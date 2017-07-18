@@ -1,6 +1,7 @@
 1. 将文件放入wamp的www里面，运行启动wamp
-2. 在mysql建立数据库laravel，将数据表laravel.sql导入数据库laravel中（或是cmd到文件根目录，执行php artisan migrate）
-3. cmd到文件根目录，执行php artisan serve启动laravel
+2. composer install 和修改.env和修改database.php
+3. 在mysql建立数据库laravel，将数据表laravel.sql导入数据库laravel中（或是cmd到文件根目录，执行php artisan migrate）
+4. cmd到文件根目录，执行php artisan serve启动laravel
 
 
 
